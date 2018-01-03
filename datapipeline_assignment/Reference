@@ -1,0 +1,6 @@
+Tensorflow slim inception preprocessing
+ - https://github.com/tensorflow/models/tree/master/slim/preprocessing
+Tensorflow Programmer's Gudie: Reading data
+ - https://www.tensorflow.org/programmers_guide/reading_data
+Using the Dataset API for TensorFlow Input Pipelines
+ - https://github.com/tensorflow/tensorflow/blob/master/tensorflow/docs_src/programmers_guide/datasets.md
