@@ -1,4 +1,8 @@
 # tf_datapipeline
+- tensorflow generater </br>
+- tensorflow input producer prefetch </br>
+- tensorflow dataset prefetch </br>
+
 flower data </br>
 : wget http://download.tensorflow.org/example_images/flower_photos.tgz </br>
 mnist png data </br>
